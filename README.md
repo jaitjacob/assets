@@ -1,2 +1,2 @@
 # assets
-mostly vectors 
+mostly vectors I for my personal projects
